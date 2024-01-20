@@ -5,21 +5,23 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Land of the Crane',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				discord: 'https://discord.gg/r72BBj2Rcy',
+				github: 'https://github.com/carpedavid/lotc-cairn',
+				mastodon: 'https://dice.camp/@carpedavid'
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Setting',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
+						{ label: 'Example Guide', link: '/setting/example/' },
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Yōkai',
+					autogenerate: { directory: 'yokai' },
 				},
 			],
 		}),
