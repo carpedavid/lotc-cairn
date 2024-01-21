@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Kaushan Script', serif;
+    font-weight: 400;
+}
+
+h2 {
+    font-family: 'Kaushan Script', serif;
+    font-weight: 400;
+}
+
+h3 {
+    font-family: serif;
+    font-weight: 400;
+    text-transform: capitalize;
+}

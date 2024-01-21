@@ -5,7 +5,7 @@ description: Small, shape-changing, spellcasting cat spirit. Often mischievous.
 
 *Small, shape-changing, spellcasting cat spirit. Often mischievous.*
 
-6 HP, 1 Armor, 10 STR, 16 DEX, 12 WIL, claws (d6)
+6 HP, 1 Armor, 10 STR, 16 DEX, 12 WIL, Claws (d6 damage)
 
 `Shapechanging`
 
