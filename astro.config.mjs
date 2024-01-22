@@ -16,8 +16,8 @@ export default defineConfig({
 				replacesTitle: true,
 			},
 			social: {
-				discord: 'https://discord.gg/r72BBj2Rcy',
 				github: 'https://github.com/carpedavid/lotc-cairn',
+				discord: 'https://discord.gg/r72BBj2Rcy',
 				mastodon: 'https://dice.camp/@carpedavid'
 			},
 			sidebar: [
@@ -26,12 +26,15 @@ export default defineConfig({
 					items: [
 						{ label: 'Introduction', link: '/setting/introduction/' },
 						{ label: 'Getting started', link: '/setting/getting_started/' },
-						{ label: 'Creating a character', link: '/setting/creating_a_character/' },
+						// { label: 'Creating a character', link: '/setting/creating_a_character/'},
+						// { label: 'Ancestries', collapsed: true, autogenerate: {directory: 'setting/ancestries'}},
+						// { label: 'Backgrounds', collapsed: true, autogenerate: {directory: 'setting/backgrounds'}}
 					],
 				},
 				{
 					label: 'Yōkai',
 					autogenerate: { directory: 'yokai' },
+					collapsed: true,
 				},
 				{ label: 'Credits', link: '/credits/'},
 				{ label: 'Amalara Game Studio', link: 'https://amalara.com', icon: ''}

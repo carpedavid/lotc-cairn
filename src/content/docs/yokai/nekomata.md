@@ -1,7 +1,10 @@
 ---
 title: Nekomata
 description: Human-sized cat spirit. Twice the tails, twice the trouble.
+cover: ../../../assets/yokai/nekomata.png
 ---
+
+![Nekomata](../../../assets/yokai/nekomata.png)
 
 *Human-sized cat spirit. Twice the tails, twice the trouble.*
 
