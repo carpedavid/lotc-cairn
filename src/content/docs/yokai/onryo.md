@@ -3,7 +3,7 @@ title: Onryō
 description: Black eyes punctuate an expression of utter contempt.
 ---
 
-*Black eyes punctuate an expression of utter contempt.
+*Black eyes punctuate an expression of utter contempt.*
 
 8 HP, 1 Stability, 10 STR, 10 DEX, 15 WIL, Cold touch (d8 stress)
 
